@@ -2,7 +2,6 @@
 
 ### Looking to work from the ground up in Cybersecurity/IT from the UK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DDDiavolo&label=Profile views&color=0e75b6&style=flat" alt="DDDiavolo" /> </p>
 
 - 🌱 I'm currently learning **Comptia Security+
 Kali Linux**
