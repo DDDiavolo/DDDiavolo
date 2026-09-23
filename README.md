@@ -11,6 +11,36 @@ Kali Linux**
 - 📫 How to reach me **yousef214559@gmail.com**
 
 - ⚡ Fun fact **I'm half Polish, half Egyptian**
+- ## 🔐 Cybersecurity Homelab Projects
+
+### 🏠 Home SOC + SIEM Live Monitoring Lab
+Built a home Security Operations Centre (SOC) from the ground up, standing up a live SIEM to monitor endpoints, generate alerts, and investigate simulated attacks in real time.
+- **What it covers:** log collection, alert triage, and attacker detection in a monitored environment
+- **Tools used:** _Wazuh_
+- **Skills demonstrated:** log analysis, alert investigation, threat detection fundamentals
+
+---
+
+### ⚙️ SOC Automation Project
+Automated parts of the SOC workflow to speed up alert triage and incident response instead of handling everything manually.
+- **What it covers:** automated alert handling, streamlined response playbooks
+- **Tools used:** _Shuffle_
+- **Skills demonstrated:** security automation, workflow design, incident response
+
+---
+
+### 🗂️ Active Directory Hacking Lab
+Built an Active Directory environment from scratch to practise common attack techniques against AD, and the detection/defence side of the same attacks.
+- **What it covers:** AD misconfigurations, common attack paths, and how to spot/stop them
+- **Tools used:** _VirtualBox/VMware, Kali Linux_
+- **Skills demonstrated:** Active Directory security, offensive techniques, defensive hardening
+
+---
+
+> 📌 Each project has its own repo below with setup notes and write-ups.
+> - [SOC + SIEM Homelab](#)
+> - [SOC Automation Project](#)
+> - [Active Directory Hacking Lab](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
